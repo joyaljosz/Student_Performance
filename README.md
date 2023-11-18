@@ -1,5 +1,5 @@
 # Student_Performance Analysis using different factors
-#### I successfully completed a project focused on developing a predictive model for student performance based on a diverse set of academic and extracurricular factors. The dataset included information for 250 students with various columns such as Exam Scores, Attendance, Study Hours, Social Activity, Gender, Homework Completion, Tutoring Hours, Health Score, Extracurricular Activities, and Performance categories.
+I successfully completed a project focused on developing a predictive model for student performance based on a diverse set of academic and extracurricular factors. The dataset included information for 250 students with various columns such as Exam Scores, Attendance, Study Hours, Social Activity, Gender, Homework Completion, Tutoring Hours, Health Score, Extracurricular Activities, and Performance categories.
 
 Approach:
 
